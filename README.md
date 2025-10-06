@@ -8,24 +8,30 @@ Pertanyaaan dan Tugas
 
 
 2. Laporan Praktikum
-<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/bc2300e2-4ab1-4d71-ad07-17848c3deb59" />
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/bc2300e2-4ab1-4d71-ad07-17848c3deb59" />
+- Membuat file HTML baru (lab3_list.html)
+- Menyiapkan kerangka awal dikumen HTML
 
 
 <img width="960" height="1008" alt="Image" src="https://github.com/user-attachments/assets/c6223597-f706-40ee-acac-fb5501feca43" />
-
-
+- Menambahkan elemen <ol> dan <li>
+- Ordered list (ol) menampilkan daftar berurutan (1, 2, 3 / A, B, C).
+  Atribut type bisa diubah menjadi 1, A, a, I, atau i.
 
 <img width="960" height="1008" alt="Image" src="https://github.com/user-attachments/assets/47ed8d16-154d-4868-8fe7-979b02efd2c7" />
-
+- Menambahkan daftar tidak berurutan menggunakan <ul>
+- Unordered list (ul) menampilkan daftar tanpa urutan (titik atau simbol).
+  Atribut type menentukan bentuk bullet (disc, circle, square).
 
 
 <img width="960" height="1008" alt="Image" src="https://github.com/user-attachments/assets/12c3ffe8-65b1-4a86-88d1-1e2cc20554df" />
-
+- Menambahkan elemen <dl>, <dt>, dan <dd>
+- Description list digunakan untuk pasangan istilah dan penjelasan.
 
 
 <img width="960" height="1008" alt="Image" src="https://github.com/user-attachments/assets/388f67c9-9e12-45cf-a4e5-63208e290224" />
-
+- Nested list digunakan untuk menampilkan struktur bertingkat.
 
 
 <img width="960" height="1008" alt="Image" src="https://github.com/user-attachments/assets/7cbfa154-ab36-452f-985e-4d9086e93413" />
